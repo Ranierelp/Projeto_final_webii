@@ -10,4 +10,4 @@
 
 Type on the terminal `./mvnw spring-boot:run`
 
-Made with ❤️ by **Arthur Gomes**
+Made with ❤️ by **Ranierelp**
